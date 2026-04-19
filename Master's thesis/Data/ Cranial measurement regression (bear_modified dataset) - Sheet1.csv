@@ -1,0 +1,25 @@
+Cranial measurement comparison,Estimate,R^2,R^2 (adjusted),P-value
+Maximum maxillary width vs. cranial length (overall),0.15251,0.4179,0.4033,3.75E-06
+Cranial height vs. cranial length (overall),0.22664,0.4318,0.4183,1.26E-06
+Orbit average vs. cranial length (overall),0.08537,0.1329,0.1088,2.44E-02
+Orbital width vs. cranial length (overall),0.35849,0.3443,0.3275,5.53E-05
+,,,,
+Maximum maxillary width vs. cranial length (Guloloch),0.2447,0.3757,-0.2485,0.5799
+Cranial height vs. cranial length (Guloloch),0.3798,0.463,-0.07391,0.5235
+Orbit average vs. cranial length (Guloloch),-0.3005,0.5414,0.08282,0.4736
+Orbital width vs. cranial length (Guloloch),0.6124,0.4416,-0.1168,0.5373
+,,,,
+Maximum maxillary width vs. cranial length (Bärenkammer),0.15726,0.2731,0.1924,0.09907
+Cranial height vs. cranial length (Bärenkammer),0.2493,0.5252,0.4724,0.01164
+Orbit average vs. cranial length (Bärenkammer),0.1554,0.4888,0.432,0.01667
+Orbital width vs. cranial length (Bärenkammer),0.6732,0.6701,0.6335,0.002062
+,,,,
+Maximum maxillary width vs. cranial length (Schacht und Spalte),0.18946,0.7126,0.7007,5.97E-08
+Cranial height vs. cranial length (Schacht und Spalte),0.26724,0.5843,0.5683,2.19E-06
+Orbit average vs. cranial length (Schacht und Spalte),0.08795,0.1493,0.1088,0.06858
+Orbital width vs. cranial length (Schacht und Spalte),0.3565,0.3497,0.3215,0.001849
+,,,,
+Maximum maxillary width vs. cranial length (Neue Spalte),0.2727,1,NA,NA
+Cranial height vs. cranial length (Neue Spalte),0.4394,1,NA,NA
+Orbit average vs. cranial length (Neue Spalte),NA,NA,NA,NA
+Orbital width vs. cranial length (Neue Spalte),0.7121,1,NA,NA
